@@ -2,7 +2,7 @@
 
 - git clone https://github.com/KinyuaMwaniki/orders.git 
 - cd orders
-- composer install
+- composer install (if it fails run composer install --ignore-platform-reqs)
 - npm install
 - npm run dev
 - cp .env.example .env
